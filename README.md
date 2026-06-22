@@ -14,5 +14,5 @@
 <p>only the copy is.</p><br>
 
 <p>To create the virtual environment, you run the command ```python -m venv venv```</p><br>
-<p>The first venv in the command is an argument to the -m option which is the name of the Python Virtual environment package</p><br>
+<p>The first venv in the command is an argument to the -m option which is the name of the Python Virtual environment package</p>
 <p>The second venv in the command is the name of the new virtual environment.</p>
